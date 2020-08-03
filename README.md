@@ -1,1 +1,2 @@
-# Consumo-de-cerveja-regressao
+# Regressão
+Consumo de cerveja na capital paulista
